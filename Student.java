@@ -4,6 +4,8 @@ import java.util.Calendar;
  * This class is the representation of the student.
  * @author Gabriel Curtis
  */
+
+//Etra comment
 public class Student {
 	String firstName;
 	String lastName;
